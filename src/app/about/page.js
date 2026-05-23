@@ -77,7 +77,7 @@ export default function AboutPage() {
                 background: 'var(--sand)',
               }}>
                 <img
-                  src="https://images.unsplash.com/photo-1556228578-8c89e6adf883?w=800&q=80"
+                  src="/hero img.jpeg"
                   alt="Artisanal process"
                   style={{ width: '100%', height: '100%', objectFit: 'cover' }}
                 />
