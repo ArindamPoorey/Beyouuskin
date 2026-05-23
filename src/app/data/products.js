@@ -186,7 +186,7 @@ export const products = [
     description:
       'A light yet effective lotion infused with Raspberry Seed Oil, rich in omega fatty acids and antioxidants. Absorbs quickly to nourish and protect all skin types.',
     benefits: ['Quick absorption', 'Rich in antioxidants', 'Non-greasy'],
-    ingredients: 'Raspberry Seed Oil, Aloe Vera, Vitamin E, Hyaluronic Acid.',
+    ingredients: 'Raspberry Seed Oil, Aloe Vera, Vitamin E.',
     image: '/Raspberry Body Lotion.jpeg',
     gallery: [
       'https://images.unsplash.com/photo-1556228578-8c89e6adf883?w=600&q=80',
@@ -218,12 +218,12 @@ export const products = [
     name: 'Kojic Acid Soap',
     category: 'Soaps',
     badge: 'Glowing Skin',
-    price: 70,
+    price: 120,
     size: '100g',
     shortDesc: 'Natural kojic acid soap for antibacterial gentle cleansing.',
     description:
       'Handcrafted with Kojic Acid Extract, this gentle antibacterial soap cleanses without stripping natural oils, leaving skin soft, supple, and naturally nourished.',
-    benefits: ['Antibacterial', 'Locks moisture', 'Suitable for sensitive skin'],
+    benefits: ['Antibacterial', 'Detan', 'Suitable for sensitive skin'],
     ingredients: 'Kojic Acid Extract, Coconut Oil, Beeswax, Lavender Oil.',
     image: '/Kojic Acid Soap.jpg',
     gallery: [
@@ -277,8 +277,8 @@ export const products = [
   category: 'Hair Care',
   badge: 'Healthy Hair',
 
-  price: 249,
-  size: '200ml',
+  price: 120,
+  size: '100ml',
 
   shortDesc: 'Natural all-in-one hair oil for scalp nourishment and healthier hair.',
 

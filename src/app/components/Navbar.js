@@ -196,7 +196,7 @@ export default function Navbar() {
         <div className="nb-in">
 
           <Link href="/" className="nb-logo">
-            <Image src="/icon.png" alt="logo" width={38} height={38}
+            <Image src="/icon.png" alt="logo" width={70} height={70}
               style={{ objectFit:'contain', borderRadius:'50%' }} />
             Be Youu-SkinCare
           </Link>
