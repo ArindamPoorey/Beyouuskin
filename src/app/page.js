@@ -38,7 +38,7 @@ function OrganicPhilosophy() {
           {/* Right image */}
           <div className="phil-img-wrap">
             <img
-              src="https://images.unsplash.com/photo-1590422749897-47036da0b0ff?w=800&q=80"
+              src="/haome bout.jpg"
               alt="Natural organic ingredients"
               className="phil-img"
             />
