@@ -360,6 +360,7 @@ export default function AboutPage() {
         <section className="section" style={{ background: 'var(--warm-bg)' }}>
           <div className="container">
 <<<<<<< HEAD
+<<<<<<< HEAD
             <h2 className="section-title" style={{ textAlign: 'center', marginBottom: 8 }}>The Be Youu Philosophy</h2>
             <p className="section-subtitle" style={{ textAlign: 'center', marginBottom: 48 }}>
               Transparency, purity, and craftsmanship in every drop.
@@ -392,6 +393,8 @@ export default function AboutPage() {
                   <p style={{ color: 'rgba(255,255,255,0.8)', fontSize: 13, marginTop: 4 }}>Hand-blended in small batches to ensure maximum potency and freshness.</p>
                 </div>
 =======
+=======
+>>>>>>> 9c30552013d597a6a49b83a9559c2778a5b73666
             <Reveal>
               <div style={{ textAlign: 'center', marginBottom: 48 }}>
                 <p className="section-label">What We Stand For</p>
@@ -399,7 +402,10 @@ export default function AboutPage() {
                 <p className="section-subtitle" style={{ marginTop: 10 }}>
                   Transparency, purity, and craftsmanship in every drop.
                 </p>
+<<<<<<< HEAD
 >>>>>>> 9c30552 (Updated website)
+=======
+>>>>>>> 9c30552013d597a6a49b83a9559c2778a5b73666
               </div>
             </Reveal>
 
